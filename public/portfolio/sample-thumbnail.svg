@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#151a15"/><stop offset="1" stop-color="#080A08"/></linearGradient>
+<radialGradient id="r" cx="70%" cy="25%" r="60%"><stop offset="0" stop-color="#8BEA45" stop-opacity=".28"/><stop offset="1" stop-color="#8BEA45" stop-opacity="0"/></radialGradient></defs>
+<rect width="1280" height="720" fill="url(#g)"/><rect width="1280" height="720" fill="url(#r)"/>
+<rect x="76.8" y="43.199999999999996" width="1126.4" height="633.6" rx="28" fill="none" stroke="#242824" stroke-width="3" stroke-dasharray="14 12"/>
+<ellipse cx="640" cy="302.4" rx="144" ry="46.800000000000004" fill="none" stroke="#8BEA45" stroke-width="5" transform="rotate(-20 640 302.4)" opacity=".8"/>
+<circle cx="640" cy="302.4" r="72" fill="#000" stroke="#8BEA45" stroke-width="3"/>
+<text x="640" y="460.8" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="50.400000000000006" fill="#8BEA45" letter-spacing="4">THUMBNAIL</text>
+<text x="640" y="511.2" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25.200000000000003" fill="#A3A3A3" letter-spacing="3">SAMPLE PLACEHOLDER</text>
+</svg>
